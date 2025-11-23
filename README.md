@@ -1,6 +1,6 @@
 
 <h1 align="left">Hi 👋, I'm Prantik De</h1>
-<p align="left">Currently Working as a Student in CDAC Hyderabad Course Name:PG-DASSD✌️ </p>
+<p align="left">Currently Working as a Student in Security Domain in CDAC Hyderabad Course Name:PG-DASSD✌️ </p>
 
 - 🔭 I’m currently working on: **CRUD-Using-NodeJS-Express-MongoDB**
 - 🌱 I’m learning: **ReactJS** and advanced React patterns
@@ -19,10 +19,12 @@
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
 [leetcode-shield]: https://img.shields.io/badge/LeetCode-FE7A16?style=for-the-badge&logo=leetcode&logoColor=white
 [github-shield]: https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+[Instagram-shield]:"https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
 
 [linkedin-url]: https://www.linkedin.com/in/prantik-de-963a17215
 [leetcode-url]: https://leetcode.com/u/mrprantikde622/
 [github-url]: https://github.com/CS-Prantik
+[Instagram-url]:"https://www.instagram.com/prantik_wick/"
 
 </body>
 </html>
