@@ -34,7 +34,7 @@
 <div align="center" style="
   display:flex;
   flex-wrap:wrap;
-  justify-content:center;
+  justify-content:start;
   gap:12px;
   padding:20px;
   border-radius:20px;
