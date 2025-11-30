@@ -29,7 +29,7 @@
 [github-url]: https://github.com/CS-Prantik
 [instagram-url]: https://www.instagram.com/prantik_wick/
 
-<h2 align="center">⚡ Things I Code With</h2>
+<h2 style="text-align:left; margin-left:10px;">⚡ Things I Code With</h2>
 
 <div align="center" style="
   display:flex;
