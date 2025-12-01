@@ -2,7 +2,7 @@
 <h1 align="left">Hi 👋, I'm Prantik De</h1>
 <p align="left">Currently Working as a Student in Security Domain in CDAC Hyderabad Course Name:PG-DASSD✌️ </p>
 
-- 🔭 I’m currently working on: **CRUD-Using-NodeJS-Express-MongoDB**
+- 🔭 I’m currently Focusing on: **Network Security Full Stack Development Secure Software Enginnering**
 - 🌱 I’m learning: **ReactJS** and advanced React patterns
 - 👯 I’m looking to collaborate on: full-stack projects & open-source tooling
 - 💬 Ask me about: JavaScript, Node.js, EJS, MongoDB
