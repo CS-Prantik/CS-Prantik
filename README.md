@@ -73,11 +73,6 @@
 <p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CS-Prantik&theme=tokyo-night&hide_border=true" />
 </p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CS-Prantik&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
 ---
 
 <h3 align="center">⚡ “Securing Systems. Building Scalable Applications. Engineering the Future.” ⚡</h3>
