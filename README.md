@@ -67,10 +67,6 @@
 <h2 align="left">📊 GitHub Performance</h2>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=CS-Prantik&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="left">
   <img src="https://streak-stats.demolab.com?user=CS-Prantik&theme=tokyonight&hide_border=true" />
 </p>
 
