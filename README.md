@@ -1,17 +1,17 @@
 <h1 align="left">Hi 👋, I'm Prantik De</h1>
 <p align="left">Currently Working as a Student in Security Domain in CDAC Hyderabad Course Name: PG-DASSD ✌️</p>
 
-- 🔭 I’m currently Focusing on: <b>Network Security, Full Stack Development, Secure Software Engineering</b>
+- 🔭 I’m currently Focusing on: <b>AI Tools And Machine Learning, Full Stack Development, Secure Software Engineering</b>
 - 🌱 I’m learning: <b>ReactJS</b> and advanced React patterns
-- 👯 I’m looking to collaborate on: <b>full-stack projects & open-source tooling</b>
-- 💬 Ask me about: <b>JavaScript, Node.js, EJS, MongoDB</b>
+- 👯 I’m looking to collaborate on: <b>AI & ML Projects & open-source tooling</b>
+- 💬 Ask me about: <b>C/C++,Python,Node.js, React, MongoDB</b>
 
 ---
 
 ### ⭐ Featured Projects
-- **CRUD-USING-NODEJS-EXPRESS-MONGODB (❁´◡`❁)** — small full-stack demo  
+- **Malware Detection Using ML (❁´◡`❁)** — small ML demo  
 - **Prantik_Portfolio 🙌** — personal site + GitHub Pages  
-- **Basic Payment_Integration-App** — payments demo  
+- **Credit Card Fraud Detection** — Checking a Payment is Fraud or not  
 - **Molecular Interaction of Protein During Blood Clot 🩸🩸** — GitHub Repo  
 
 ---
