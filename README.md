@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Prantik De</h1>
-<p align="left">Currently Working as a Software Developer in Digital Trust Technologies, Hyderabad Telangana ✌️
+<p align="left">Currently Working as a Software Developer in Digital Trust Technologies, Hyderabad Telangana✌️<br>
                 Ex-Student at CDAC Hyderabad in PG-DASSD(Advance Secure Software Development)</p>
 
 - 🔭 I’m currently Focusing on: <b>AI Tools And Machine Learning, Full Stack Development, Secure Software Engineering</b>
